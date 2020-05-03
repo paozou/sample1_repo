@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/paozou/src/sample"
+	"github.com/paozou/sample1_repo/sample"
 )
 
 func main() {
